@@ -1,0 +1,15 @@
+= DESCRIPTION:
+
+bundles and uploads a new ec2 ami from the running instance. use chef to install
+the instance from scratch, and create an ami from the result, ready to use
+with auto-scaling
+
+= REQUIREMENTS:
+
+= ATTRIBUTES:
+
+= USAGE:
+
+= LICENSE:
+
+Apache License, Version 2.0 : http://www.apache.org/licenses/LICENSE-2.0.html
